@@ -1,2 +1,2 @@
 # slide-guide
-WordCamp Ogijima 2018 スピーカー向けスライド制作のチェックポイント
+WordCamp Ogijima 2018 スライド制作のチェックポイント
