@@ -1,0 +1,70 @@
+# WordCamp Ogijima 2018 Checkpoints for Creating Slides
+For Speakers
+
+the Venue: School Gymnasium
+To secure airiness, there will be natural light.
+
+## Venue Layout as of 2018.6.15
+Podium, Projector and Screen (1800×3600mm) on stage
+There will be 200 people on mattress (sit on floor) or seats.
+The area of venue is 18m×36m.
+
+## When creating slides
+A large venue with natural light, one screen only at front, hot gymnasium in summer…
+Please cooperate in creating clear and easy-to-read slides.
+
+- Use large letters
+- Contrasty
+- Lower cognitive load
+
+## Basic Format
+Slide Ratio ＝ 16 : 9 （recommended） 
+※ Ratio other than 4 : 3 can be displayed
+Reference :  Maximum resolution of projector is 1920×1200
+
+Insert a cover slide on 1st slide（before slide title）
+This is a common slide used in-between sessions.  Image for cover slide will be shared later.
+
+## Size and Thickness
+### Letters to be BIG
+Please use big letter size, including letters within diagram etc.
+Consider dividing slides, or use simple words to limit the no. of letters used in one slide.
+
+### Be careful of thick letters, thin letters
+Using too thick letters makes it difficult to read.  Please secure contrast and size by limiting the usage of extreme thick letters and thin letters to heading and chapter door.
+
+## Line Space and Line Break
+### Appropriate line space
+Sentences are difficult to read when line space is too clogged or too much room.
+
+### Break line with meaning
+When using multiple lines, it becomes easy to read when line breaks with words or phrase, not an automatic return.
+
+## Contrast
+Strong contrast between font and background color
+We recommend over 7:1 ratio rate for basic font color and background color
+Check tool example： http://contrast-ratio.com/
+
+ex1）Background: dark-blue (#0C1136) / Font: white (#FFFFFF) ＝ Contrast Ratio 18.28
+→Great!
+ex2）Background: blue (#4484C0) / Font: white (#FFFFFF) ＝ Contrast Ratio 3.95
+ex3）Background: white (#FFFFFF) / Font: yellowish green (#90B44B) ＝ Contrast Ratio 2.38
+→ May seem fine but stronger contrast is better
+ex4）Background: pale blue (#D8EEF6) / Font: dark grey (#4E4E4E) ＝ Contrast Ratio 6.92
+→Difficult…
+
+※Try to keep a strong contrast like the one on left.
+
+## Photo and Text
+Adding word layer on photo is not recommended this time.
+There is a possibility that both photo and letters become difficult to read.
+
+To impress image and words, have a try to lay solid color or divide text area and image.
+
+## Color
+Communicating information other than color.
+When using several colors for graphs or diagrams, it is recommended to add text, shapes, patterns, and moves, so information can be communicated other than color.
+
+## Other
+- Double check typos … Remove factors that may distract listeners attention.
+- Don’t place important element atbottom of slide … Prevent “I can’t see because of the head of a person sitting in front…”
